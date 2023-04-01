@@ -23,6 +23,5 @@ export function validator(data, config) {
      }
     }
   }
-  console.log(data.birthYear);
   return errors
 }
